@@ -7,5 +7,6 @@
 * Connect Analytics tool like tableau for analysis.
 ![](/trade_bot.jpg)
 # Code and Resources Used
-* Available in DockerFile
+* Big thanks to McKlayne Marshall guide available in his Medium: https://mcklayne.medium.com/
+* requirements: Available in DockerFile
 
