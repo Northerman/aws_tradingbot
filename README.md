@@ -8,5 +8,5 @@
 ![](/trade_bot.jpg)
 # Code and Resources Used
 * Big thanks to McKlayne Marshall guide available in his Medium: https://mcklayne.medium.com/
-* requirements: Available in DockerFile
+* Requirements: Available in DockerFile
 
