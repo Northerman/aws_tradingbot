@@ -5,11 +5,8 @@
 * Use Amazon SNS to Send SMS to phone tracking daily portfolio change.
 * Store data using Amazon RDS logging trade positions into the database for further analytics.
 * Connect Analytics tool like tableau for analysis.
-* Infrastructure
-
+# Infrastructure & SNS Daily Updates
 ![](/trade_bot.jpg)
-* SNS Daily Updates
-
 ![](/SNS.jpg)
 # Code and Resources Used
 * Big thanks to McKlayne Marshall guide available in his Medium: https://mcklayne.medium.com/
