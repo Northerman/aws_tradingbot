@@ -1,4 +1,4 @@
-# AWS Trading Bot using Alpaca API: Project Overview
+# AWS Trading Bot using Alpaca API: A Starter code for trading bot
 * Trading bot deployed on AWS utilizing ECR (Elastic Container Registry) to deploy a docker image.
 * Trade Strategy: RSI (Relative Strength Index) overbought/oversold.
 * Utilize AWS EventBridge to execute trade strategy when market open
