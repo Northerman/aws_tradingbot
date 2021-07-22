@@ -5,7 +5,7 @@
 * Create a tree-based model to predict job salary given experience year & job function.
 * Built two salary prediction chatbot & models. (1.Using local database 2.Using Firebase)
 * Built a flask API endpoint hosted locally and use ngrok to communicate with dialogflow to identify user’s intent.
-![](/images/chatbot_flow.png)
+![](/trade_bot.jpg)
 # Code and Resources Used
 **Base requirements:** requirements.txt
 
